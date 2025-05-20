@@ -36,3 +36,7 @@ Stock market prediction is complex due to volatile and non-linear data. Traditio
 - Use Grad-CAM for better interpretability.
 - Experiment with CNN-RNN hybrids.
 - Extend to crypto, forex, and global markets.
+
+## Contributors
+- Ananth Mohan
+- Dhairya Dedhia
